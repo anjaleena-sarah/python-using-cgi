@@ -2,7 +2,7 @@
 import cgi
 print("Content-type: text/html\n\n")
 # This line sends an HTTP header specifying that the content is HTML.
-
+ 
 # Import the Common Gateway Interface (CGI) module to handle form data.
 
 form = cgi.FieldStorage()
