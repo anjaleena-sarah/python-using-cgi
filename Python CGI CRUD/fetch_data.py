@@ -3,7 +3,7 @@
 import cgi
 import json
 import mysql.connector
-
+ 
 print("Content-type: application/json\n")
 
 # Function to establish connection to MySQL
