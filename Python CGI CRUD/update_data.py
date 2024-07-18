@@ -1,6 +1,6 @@
 #!C:\Users\admin\AppData\Local\Programs\Python\Python311\python.exe
 
-import cgi
+import cgi 
 import mysql.connector
 
 print("Content-type: text/html\n")
