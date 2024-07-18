@@ -2,7 +2,7 @@
 import cgi
 import mysql.connector
 
-# Function to establish connection to MySQL 
+# Function to establish connection to MySQL  
 def connect_to_database():
     return mysql.connector.connect(
         host="localhost",
