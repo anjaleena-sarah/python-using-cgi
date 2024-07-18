@@ -4,7 +4,7 @@ import cgi
 import mysql.connector
 
 print("Content-type: text/html\n")
-
+ 
 # Function to establish connection to MySQL
 def connect_to_database():
     return mysql.connector.connect(
